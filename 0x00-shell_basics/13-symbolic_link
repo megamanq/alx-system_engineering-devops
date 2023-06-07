@@ -1,2 +1,2 @@
 #!/bin/bash/
-ls -la  __ls__
+echo "$(ls -la  __ls__)"
